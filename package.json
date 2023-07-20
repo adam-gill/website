@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "moment": "^2.29.4",
+    "requirejs": "^2.3.6"
+  },
+  "name": "website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
